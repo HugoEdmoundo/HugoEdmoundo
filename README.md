@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Hugo!</h1>
-<h3 align="center">A Curious CS Student from Indonesia 🇮🇩</h3>
+<h3 align="center">A Curious CS Student - Telkom Gatsu from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <a href="https://github.com/hugoedmoundo">
