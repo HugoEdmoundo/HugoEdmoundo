@@ -2,6 +2,10 @@
 <h3 align="center">A Curious CS Student - Telkom Gatsu from Indonesia 🇮🇩</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Building+Dreams+with+Code+and+Faith;Tahfidz+Scholarship+in+Progress;Future+Certified+Ethical+Hacker;AI+%2B+Electronics+Lover;In+Love+with+Plantation+Business" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/hugoedmoundo">
     <img src="https://komarev.com/ghpvc/?username=hugoedmoundo&label=Profile%20views&color=0e75b6&style=flat" alt="hugoedmoundo" />
   </a>
