@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello, I'm Hugo!</h1>
-<h3 align="center">A Curious CS Student - Telkom Gatsu from Indonesia 🇮🇩</h3>
+<h3 align="center">Visioner | Part of @ptdar_rahman | Member of @telkomindonesia</h3>
+<h3 align="center">I write, code to turn ideas into real things. Creative | Web Dev • Writer | Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Building+Dreams+with+Code+and+Faith;Tahfidz+Scholarship+in+Progress;Future+Certified+Ethical+Hacker;AI+%2B+Electronics+Lover;In+Love+with+Plantation+Business" alt="Typing SVG" />
