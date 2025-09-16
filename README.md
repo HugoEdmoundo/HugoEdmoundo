@@ -19,11 +19,11 @@
 ---
 
 ### 📚 About Me
-- 🎓 **Computer Science Student** passionate about web development and open source.  
+- 🎓 **Informatics – Business Enterprise** passionate about web development and open source.  
 - 🌱 Currently learning **HTML, CSS, JavaScript, React, Python, and backend fundamentals**.  
-- 💻 Working on personal projects to sharpen my skills.  
+- 🛠️ Familiar with frameworks like **Laravel, CodeIgniter, and Next.js**.  
 - 🎯 Goal: Contribute to meaningful projects and grow as a developer.  
-- ⚡ Fun fact: **I love coding while listening to music!** 
+- ⚡ Fun fact: **Kadang kalau lagi stuck ngoding, gue bukannya buka dokumentasi... malah buka warung mie rebus. Aneh, tapi sering kali solusi dateng setelah mie habis. 🍜😂**
 
 ---
 
