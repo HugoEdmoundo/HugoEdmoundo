@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Hugo!</h1>
 <h3 align="center">Visioner | Part of @ptdar_rahman | Member of @telkomindonesia</h3>
-<h3 align="center">I write, code to turn ideas into real things. Creative | Web Dev • Writer | Indonesia 🇮🇩</h3>
+<h3 align="center">I write, code to turn ideas into real things. Creative | Software Engineer • Writer | Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=900&lines=Thinks+Tahfidz+%26+Future+Tech+Leader;Building+the+Next+Big+Thing+from+PTD;Future+Computer+Scientist+in+Tokyo;Crypto+Dreamer+%26+Warung+Mie+Owner;Coding+Today,+Changing+the+World+Tomorrow" alt="Typing SVG" />
