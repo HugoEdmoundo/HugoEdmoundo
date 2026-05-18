@@ -1,95 +1,106 @@
 # `HugoEdmoundo` ⌁
+
 ```bash
 $ whoami
-> a TypeScript & Python guy who makes systems scale (and occasionally break at 2am)
+> a TypeScript & Python guy who makes agents do the boring stuff
 ```
+
 ---
+
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-**Software Engineer** · Scalable Systems & Backend  
-Currently: making distributed systems behave like they should (they don't)
+**Software Engineer** · AI/Agent Systems · `PRO (probably)`
+
+🟢 Currently: building something that may or may not become sentient.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1c2d4d?style=flat-square&logo=typescript&logoColor=79c0ff)
+![Python](https://img.shields.io/badge/Python-2d1b4d?style=flat-square&logo=python&logoColor=d2a8ff)
+![AI/Agents](https://img.shields.io/badge/AI%2FAgents-1b3a2d?style=flat-square&logoColor=56d364)
+![LLM Whisperer](https://img.shields.io/badge/LLM%20Whisperer-3a1b1b?style=flat-square&logoColor=ff7b72)
+![Coffee-Driven Dev](https://img.shields.io/badge/Coffee--Driven%20Dev-1b2d3a?style=flat-square&logo=buymeacoffee&logoColor=58a6ff)
+
+---
 
 ```python
 hugo = {
-    "stack":       ["TypeScript", "Python"],
-    "obsessed_with": ["scalable architecture", "distributed systems", "performance"],
-    "currently":   "debugging something that 'works in dev' but screams in prod",
-    "coffee":      True,
-    "sleep":       False,
-    "uptime":      "99.2% (the 0.8% was instructive)",
+    "stack":         ["TypeScript", "Python"],
+    "obsessed_with": ["AI Agents", "LLM orchestration", "automation"],
+    "currently":     "building something that may or may not become sentient",
+    "coffee":        True,    # non-negotiable
+    "sleep":         False,   # we don't do that here
+    "agent_escaped": True,    # 3000 API calls. trust the process.
 }
 ```
 
-> *"If it doesn't scale, it's a prototype. If it breaks at scale, it's a learning opportunity."*
+> *"If it can be automated, it will be automated. If it can't, I'll train a model on it."*
+> — definitely me, after 3am commit
 
 ---
 
-## What I Actually Do
+## 🕵️ What I Actually Do
 
-- 🏗️ **Scalable Architecture** — Designing systems that hold up when traffic stops being fake
-- 🔷 **TypeScript** — Because runtime surprises at 100k req/s are not fun
-- 🐍 **Python** — Backend services, data pipelines, and anything that needs to run fast
-- ⚡ **Performance Engineering** — Profiling, caching, query optimization, the unglamorous stuff
-- 🔗 **APIs & Backend** — REST, GraphQL, event-driven — whatever the system actually needs
-- 📦 **Distributed Systems** — Queues, workers, load balancing, eventual consistency headaches
+- 🕵️ **AI Agent Systems** — Multi-agent pipelines, tool-calling, RAG. The whole glorious chaos — shipped before fully understood.
+- 🔷 **TypeScript** — JavaScript with a safety net, self-respect, and a slightly less cursed 2am experience.
+- 🐍 **Python** — For the AI stuff. And the backend stuff. And the "this shouldn't work but it does" stuff.
+- 🔗 **Orchestration** — LangChain, LlamaIndex, custom runtimes. Basically a traffic warden for confused LLMs.
 
 ---
 
-## Tech I Actually Use
+## 📊 Stack Proficiency
 
 ```
-Languages    → TypeScript ████████████░  Python ███████████░░
-Backend      → Node.js · FastAPI · Express · NestJS
-Messaging    → Kafka · RabbitMQ · BullMQ · Redis Streams
-Infra        → Docker · K8s · Vercel · Railway · GCP
-DB           → PostgreSQL · Redis · ClickHouse · Supabase
-Observability→ Grafana · Prometheus · Datadog (when budget allows)
-Tools        → VS Code (obviously) · Cursor · Obsidian · k6 (load testing)
+TypeScript   ████████████░░  88%
+Python       ██████████░░░░  80%
+AI / Agents  █████████████░  95%
+Infra/DevOps ████████░░░░░░  60%
+Prompt Eng.  █████████████░  92%
 ```
 
 ---
 
-## Currently Shipping
+## 🚀 Currently Shipping
 
 | Project | What it does | Status |
 |---|---|---|
-| 🏗️ **scalekit** | Reusable patterns for high-throughput backend services | `in progress` |
-| 🔁 **queuemaster** | Job queue abstraction layer — Kafka, BullMQ, one interface | `alpha` |
-| 📊 **perf-watch** | Lightweight perf monitoring for Node.js services | `ideating` |
-| 💀 **monolith-v1** | The one before the rewrite. We don't talk about it. | `retired (rip)` |
+| 🕵️ **agent-core** | Multi-agent task runner. It delegates. Better at it than me. | `in progress` |
+| 🧠 **memstore** | Long-term memory layer for LLM apps. Basically LLM therapy notes. | `alpha` |
+| 🔧 **toolchain** | Custom tool registry for AI agents. They need tools too, okay? | `ideating` |
+| 💀 **agent-v0.1** | Queued 3,000 API calls before I noticed. Technically impressive. | `⚠ rogue` |
 
 ---
 
-## My Dev Philosophy in One Commit Message
+## 🎲 Random Facts (Certified Real™)
+
+- 🧃 Spent more time prompt engineering than writing actual code this month. Worth it? Debatable.
+- 📉 First agent went rogue — 3,000 API calls before I noticed. I consider this a success story.
+- 🎯 I genuinely believe `async/await` is one of humanity's greatest achievements. I will die on this hill.
+- 🌀 Refactored the same function 6 times. Looks exactly the same. I'm fine. The function is fine.
+- ☕ Function naming degrades exponentially after 11pm. `doTheThing2Final_v3` was a dark era.
+- 🤖 My agents have more retry logic than I have life plans. They're more prepared. I respect it.
+
+---
+
+## 💬 My Dev Philosophy in One Commit Message
 
 ```
-feat: horizontal scaling because vertical has limits and so does my patience
+commit a4f8c2d · main
+feat: ship fast, document later, let the agent handle the edge cases
 
-- added connection pooling (it was embarrassing before)
-- split the monolith into 3 services (down from 1, up from chaos)
-- the load test passed at 10k req/s
-- prod is fine. probably. the alerts are quiet.
++ added retry logic (trust me bro)
++ the tests pass locally
++ prod is fine probably
+- removed documentation (agent will write it)
+- deleted unit tests (vibe-based testing now)
 
-Co-authored-by: Stack Overflow <answers@stackoverflow.com>
+// reviewed by: me, 2am-me, and a confused LLM
 ```
 
 ---
 
-## Random Facts (100% Real)
+## 📡 Let's Talk
 
-- 🧃 I've spent more time reading query execution plans than I'd like to admit
-- 📉 Deployed a service that worked great until someone actually used it — classic
-- 🎯 I genuinely believe connection pooling is one of the most underrated things in backend
-- 🌀 I've over-engineered the same CRUD endpoint 5 times — it's a microservice now, somehow
-- ☕ The architecture diagrams get more ambitious after 11pm. No exceptions.
-- 📊 Once found a bug that only appeared above 8,000 concurrent users. It was a single missing index.
-
----
-
-## Let's Talk
-
-Building something that needs to scale? Have a system that's starting to show cracks?  
-Or just wanna nerd out about distributed systems, queues, or why your DB is slow?
+Built something weird with AI? Have a bad idea that might actually work?  
+Or just wanna nerd out about agents, orchestration, or why the LLM keeps hallucinating field names?
 
 [![Email](https://img.shields.io/badge/email-hit%20me%20up-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:hugo@example.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-HugoEdmoundo-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/HugoEdmoundo)
@@ -98,7 +109,7 @@ Or just wanna nerd out about distributed systems, queues, or why your DB is slow
 ---
 
 <p align="center">
-  <sub>
-    <code>// last updated by a script. obviously. the manual version didn't scale.</code>
-  </sub>
+  <sub><code>// last updated by a script. obviously.</code></sub>
+  <br>
+  <sub><code>⚠ no agents were harmed in the making of this README (they escaped)</code></sub>
 </p>
