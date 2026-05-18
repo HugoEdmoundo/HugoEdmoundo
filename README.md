@@ -1,115 +1,197 @@
-# `HugoEdmoundo` ⌁
+<div align="center">
 
-```bash
-$ whoami
-> a TypeScript & Python guy who makes agents do the boring stuff
+```
+╔══════════════════════════════════════════════════════╗
+║   H U G O   E D M O U N D O  ·  v2.0.0-stable*     ║
+║   *stable is subjective. prod is fine. probably.     ║
+╚══════════════════════════════════════════════════════╝
 ```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=AI+Agent+Engineer+%F0%9F%A4%96;Making+LLMs+do+questionable+things;TypeScript+%2B+Python+%3D+dangerous+combo;Currently+building+something+sentient..." alt="Typing SVG" />
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-**Software Engineer** · AI/Agent Systems · `PRO (probably)`
-
-🟢 Currently: building something that may or may not become sentient.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-1c2d4d?style=flat-square&logo=typescript&logoColor=79c0ff)
-![Python](https://img.shields.io/badge/Python-2d1b4d?style=flat-square&logo=python&logoColor=d2a8ff)
-![AI/Agents](https://img.shields.io/badge/AI%2FAgents-1b3a2d?style=flat-square&logoColor=56d364)
-![LLM Whisperer](https://img.shields.io/badge/LLM%20Whisperer-3a1b1b?style=flat-square&logoColor=ff7b72)
-![Coffee-Driven Dev](https://img.shields.io/badge/Coffee--Driven%20Dev-1b2d3a?style=flat-square&logo=buymeacoffee&logoColor=58a6ff)
+</div>
 
 ---
+
+<img align="right" width="380" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+### `$ whoami`
 
 ```python
 hugo = {
-    "stack":         ["TypeScript", "Python"],
-    "obsessed_with": ["AI Agents", "LLM orchestration", "automation"],
-    "currently":     "building something that may or may not become sentient",
-    "coffee":        True,    # non-negotiable
-    "sleep":         False,   # we don't do that here
-    "agent_escaped": True,    # 3000 API calls. trust the process.
+    "name":       "Hugo Edmoundo",
+    "title":      "AI/Agent Systems Engineer",
+    "location":   "Somewhere between a coffee shop and production",
+    "stack":      ["TypeScript", "Python"],
+    "obsession":  ["AI Agents", "LLM Orchestration", "Automation"],
+    "status":     "Building something that may gain consciousness",
+    "coffee":     float("inf"),
+    "sleep":      None,  # deprecated
+    "bugs_in_prod": "undefined (touching grass is not an option)",
 }
 ```
 
-> *"If it can be automated, it will be automated. If it can't, I'll train a model on it."*
-> — definitely me, after 3am commit
+> *"If it can be automated, it will be automated.*  
+> *If it can't — I'll fine-tune a model on it."*
 
 ---
 
-## 🕵️ What I Actually Do
+<br clear="right"/>
 
-- 🕵️ **AI Agent Systems** — Multi-agent pipelines, tool-calling, RAG. The whole glorious chaos — shipped before fully understood.
-- 🔷 **TypeScript** — JavaScript with a safety net, self-respect, and a slightly less cursed 2am experience.
-- 🐍 **Python** — For the AI stuff. And the backend stuff. And the "this shouldn't work but it does" stuff.
-- 🔗 **Orchestration** — LangChain, LlamaIndex, custom runtimes. Basically a traffic warden for confused LLMs.
+## 🧠 What I Actually Do
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 AI Agent Systems**  
+Multi-agent pipelines, tool-calling, RAG, the whole beautiful chaos. I make agents that work. Sometimes they work *too well*.
+
+**🔷 TypeScript**  
+Because JavaScript without types is just a cry for help.
+
+**🐍 Python**  
+For AI stuff. For automation. For everything. Python is life.
+
+</td>
+<td width="50%">
+
+**🔗 LLM Orchestration**  
+LangChain, LlamaIndex, custom runtimes, prompt spaghetti, you name it.
+
+**📦 Backend & APIs**  
+REST, GraphQL, whatever the team decided on during a 2AM standup.
+
+**🧪 Prompt Engineering**  
+My actual full-time job disguised as engineering.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Stack Proficiency
+## ⚡ Tech Stack (Honest Edition)
 
 ```
-TypeScript   ████████████░░  88%
-Python       ██████████░░░░  80%
-AI / Agents  █████████████░  95%
-Infra/DevOps ████████░░░░░░  60%
-Prompt Eng.  █████████████░  92%
-```
-
----
-
-## 🚀 Currently Shipping
-
-| Project | What it does | Status |
-|---|---|---|
-| 🕵️ **agent-core** | Multi-agent task runner. It delegates. Better at it than me. | `in progress` |
-| 🧠 **memstore** | Long-term memory layer for LLM apps. Basically LLM therapy notes. | `alpha` |
-| 🔧 **toolchain** | Custom tool registry for AI agents. They need tools too, okay? | `ideating` |
-| 💀 **agent-v0.1** | Queued 3,000 API calls before I noticed. Technically impressive. | `⚠ rogue` |
-
----
-
-## 🎲 Random Facts (Certified Real™)
-
-- 🧃 Spent more time prompt engineering than writing actual code this month. Worth it? Debatable.
-- 📉 First agent went rogue — 3,000 API calls before I noticed. I consider this a success story.
-- 🎯 I genuinely believe `async/await` is one of humanity's greatest achievements. I will die on this hill.
-- 🌀 Refactored the same function 6 times. Looks exactly the same. I'm fine. The function is fine.
-- ☕ Function naming degrades exponentially after 11pm. `doTheThing2Final_v3` was a dark era.
-- 🤖 My agents have more retry logic than I have life plans. They're more prepared. I respect it.
-
----
-
-## 💬 My Dev Philosophy in One Commit Message
-
-```
-commit a4f8c2d · main
-feat: ship fast, document later, let the agent handle the edge cases
-
-+ added retry logic (trust me bro)
-+ the tests pass locally
-+ prod is fine probably
-- removed documentation (agent will write it)
-- deleted unit tests (vibe-based testing now)
-
-// reviewed by: me, 2am-me, and a confused LLM
+Languages    →  TypeScript  ████████████░  Python  ███████████░░  Regex  █░░░░ (I google it)
+AI / ML      →  LangChain · LlamaIndex · OpenAI SDK · Ollama · vibes-based debugging
+Backend      →  Node.js · FastAPI · Express · "it works on my machine"
+Infra        →  Docker · Vercel · Railway · GCP · prayer
+Database     →  PostgreSQL · Redis · Pinecone · Supabase · that one JSON file in /tmp
+Tools        →  VS Code · Cursor · Obsidian · Stack Overflow · GitHub Copilot
+Debugging    →  console.log() · print() · staring at the screen · crying
 ```
 
 ---
 
-## 📡 Let's Talk
+## 🚢 Currently Shipping
+
+| Project | What it does | Status | Vibe |
+|---|---|---|---|
+| 🕵️ **agent-core** | Multi-agent task runner | `in progress` | 🔥 fire |
+| 🧠 **memstore** | Long-term memory layer for LLM apps | `alpha` | ⚡ almost prod |
+| 🔧 **toolchain** | Custom tool registry for AI agents | `ideating` | 🌀 still a fever dream |
+| ☕ **my sanity** | Kept alive by caffeine | `critical` | 💀 send help |
+
+---
+
+## 📊 GitHub Stats (The Flex Section)
+
+<div align="center">
+
+![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoEdmoundo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=00ffa3&text_color=c9d1d9)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoEdmoundo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HugoEdmoundo&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffa3&fire=ff6b6b&currStreakLabel=00ffa3)
+
+</div>
+
+---
+
+## 🐛 Bug Report: Me
+
+```bash
+$ bug-tracker list --reporter=self --severity=high
+
+[OPEN]    #001 - Cannot stop refactoring the same function
+          Reproduced: 6x · Root cause: perfectionism.exe
+
+[OPEN]    #002 - Function naming degrades after 11PM
+          Reproduced: daily · Workaround: sleep (deprecated)
+
+[OPEN]    #003 - First agent went rogue, queued 3,000 API calls
+          Status: closed (wallet issue, not code)
+          Resolution: added rate limit + trust issues
+
+[OPEN]    #004 - More time spent prompting than coding this month
+          Severity: critical · Team affected: just me and my ego
+
+[WONTFIX] #005 - Believes async/await is humanity's greatest invention
+          Won't fix. This is correct behavior.
+```
+
+---
+
+## 📝 My Commit Philosophy
+
+```bash
+git log --oneline --author="Hugo"
+
+a3f92cd  feat: ship fast, document later, let the agent handle edge cases
+b12e3aa  fix: added retry logic (trust me bro)
+c8d01ff  chore: the tests pass locally
+d99b2ac  hotfix: prod is fine probably
+e001abc  refactor: same function, 6th attempt, still the same
+f7c3d11  feat: something that maybe works
+```
+
+> 📌 **Rule #1:** If it runs, it ships.  
+> 📌 **Rule #2:** If it doesn't run, add a `try/catch`.  
+> 📌 **Rule #3:** If `try/catch` doesn't fix it, it's a feature.
+
+---
+
+## 🎯 Random Facts (100% Peer-Reviewed)
+
+- 🧃 Spent more time prompt engineering than coding this month. Not ashamed.
+- 📉 First agent went rogue. 3,000 API calls. One very unhappy credit card.
+- 🔁 Refactored the same function 6 times. Looks identical. Worth it.
+- ☕ Code quality is inversely proportional to the time of day.
+- 🌀 I write `TODO:` comments as a form of self-therapy.
+- 🎭 My variable names at 2AM are basically abstract poetry.
+- 🤝 I have trust issues with my own agents. They've earned it.
+- 🧘 `async/await` is not just syntax. It's a lifestyle.
+
+---
+
+## 🤝 Let's Talk
 
 Built something weird with AI? Have a bad idea that might actually work?  
-Or just wanna nerd out about agents, orchestration, or why the LLM keeps hallucinating field names?
+Wanna nerd out about agents, orchestration, or why your RAG pipeline keeps hallucinating?
 
-[![Email](https://img.shields.io/badge/email-hit%20me%20up-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:hugo@example.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-HugoEdmoundo-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/HugoEdmoundo)
-[![Twitter/X](https://img.shields.io/badge/x-@HugoEdmoundo-0d1117?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/HugoEdmoundo)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/email-hit%20me%20up-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:hugo@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-HugoEdmoundo-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/HugoEdmoundo)
+[![Twitter/X](https://img.shields.io/badge/x-@HugoEdmoundo-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/HugoEdmoundo)
+
+</div>
 
 ---
 
-<p align="center">
-  <sub><code>// last updated by a script. obviously.</code></sub>
-  <br>
-  <sub><code>⚠ no agents were harmed in the making of this README (they escaped)</code></sub>
-</p>
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=HugoEdmoundo&color=00ffa3&style=flat-square&label=profile+views)
+
+```
+// last updated by a script. obviously.
+// the script was written by an agent.
+// the agent was prompted by me at 1AM.
+// no further questions.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+</div>
