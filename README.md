@@ -44,7 +44,7 @@ AI/ML        → LangChain · LlamaIndex · OpenAI SDK · Ollama
 Backend      → Node.js · FastAPI · Express
 Infra        → Docker · Vercel · Railway · GCP
 DB           → PostgreSQL · Redis · Pinecone · Supabase
-Tools        → VS Code (obviously) · Cursor · Obsidian
+Tools        → VS Code (obviously) 
 ```
 
 ---
@@ -94,7 +94,7 @@ feat: ship fast, document later, let the agent handle the edge cases
 Built something weird with AI? Have a bad idea that might actually work?  
 Or just wanna nerd out about agents?
 
-[![Email](https://img.shields.io/badge/email-hit%20me%20up-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:hugo@example.com)
+[![Email](https://img.shields.io/badge/email-hit%20me%20up-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:hugoedmoundo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-HugoEdmoundo-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/HugoEdmoundo)
 [![Twitter/X](https://img.shields.io/badge/x-@HugoEdmoundo-0d1117?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/HugoEdmoundo)
 
