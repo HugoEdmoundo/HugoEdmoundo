@@ -51,10 +51,33 @@ const hugo = {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=HugoEdmoundo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=6366f1&count_private=true&hide=stars" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoEdmoundo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=HugoEdmoundo&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+<div align="center">
+
+[![HugoEdmoundo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoEdmoundo&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoEdmoundo&theme=tokyonight)
+
+</div>
+
+---
+
+### On a scale of 1–10 how bad is the code?
+
+```
+Readability   ████████░░  depends on the hour
+Performance   █████████░  until it doesn't
+Test coverage ███░░░░░░░  bold of you to ask
+Documentation ██░░░░░░░░  comments are for the weak
+Ship speed    ██████████  always
+```
 
 ---
 
