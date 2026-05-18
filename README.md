@@ -1,302 +1,120 @@
-::: gh-wrap
-::: scanline
-:::
+# HugoEdmoundo `PRO (probably)`
 
-::: content
-::: header-row
-::: avatar-wrap
-::: avatar-placeholder
-🤖 [☕]{style="position:absolute;bottom:2px;right:-2px;font-size:16px"}
-:::
+**@HugoEdmoundo · Software Engineer · AI/Agent Systems**
 
-::: status-dot
-:::
-:::
+Making LLMs do things they probably shouldn't.
+🟢 Currently: building something that may or may not become sentient.
 
-::: header-info
-::: name-row
-[HugoEdmoundo]{.display-name} [PRO
-(probably)]{style="font-size:11px;background:#1b3a2d;color:#56d364;padding:2px 8px;border-radius:20px;border:1px solid #2ea043"}
-:::
+![TypeScript](https://img.shields.io/badge/TypeScript-1c2d4d?style=flat&labelColor=1c2d4d&color=2d5a9e&logo=typescript&logoColor=79c0ff)
+![Python](https://img.shields.io/badge/Python-2d1b4d?style=flat&labelColor=2d1b4d&color=6e40c9&logo=python&logoColor=d2a8ff)
+![AI/Agents](https://img.shields.io/badge/AI%2FAgents-1b3a2d?style=flat&color=2ea043&logoColor=56d364)
+![LLM Whisperer](https://img.shields.io/badge/LLM%20Whisperer-3a1b1b?style=flat&color=9e2a2a&logoColor=ff7b72)
+![Coffee-Driven Dev](https://img.shields.io/badge/Coffee--Driven%20Dev-1b2d3a?style=flat&color=1f6feb&logoColor=58a6ff)
 
-::: handle
-\@HugoEdmoundo · Software Engineer · AI/Agent Systems
-:::
+---
 
-::: bio-line
-Making LLMs do things they probably shouldn\'t.\
-[⬤]{style="color:#3fb950"} Currently: building something that may or may
-not become sentient.
-:::
+> *"If it can be automated, it will be automated. If it can't, I'll train a model on it."*
+>
+> — definitely me, after 3am commit
 
-::: badges
-[TypeScript]{.badge .badge-ts} [Python]{.badge .badge-py}
-[AI/Agents]{.badge .badge-ai} [LLM Whisperer]{.badge .badge-agents}
-[Coffee-Driven Dev]{.badge
-style="background:#1b2d3a;border-color:#1f6feb;color:#58a6ff"}
-:::
-:::
-:::
+---
 
-::: quote-block
-\"If it can be automated, it will be automated. If it can\'t, I\'ll
-train a model on it.\"\
-[--- definitely me, after 3am
-commit]{style="color:#3fb950;font-style:normal;font-size:10px;"}
-:::
+### `hugo.py`
 
-::: code-block
-::: code-header
-::: {.dot .dot-r}
-:::
+```python
+hugo = {
+    "stack":        ["TypeScript", "Python"],
+    "obsessed_with": ["AI Agents", "LLM orchestration", "automation"],
+    "currently":    "building something that may or may not become sentient",
+    "coffee":       True,    # non-negotiable
+    "sleep":        False,   # we don't do that here
+    "agent_escaped": True,   # 3000 API calls. trust the process.
+}
+```
 
-::: {.dot .dot-y}
-:::
+---
 
-::: {.dot .dot-g}
-:::
+### WHAT I ACTUALLY DO
 
-[hugo.py]{.file-name}
-:::
+| | |
+|---|---|
+| 🕵️ **AI Agent Systems** | Multi-agent pipelines, tool-calling, RAG. The whole glorious chaos — shipped before fully understood. |
+| 🔷 **TypeScript** | JavaScript with a safety net, self-respect, and a slightly less cursed 2am experience. |
+| 🐍 **Python** | For the AI stuff. And the backend stuff. And the "this shouldn't work but it does" stuff. |
+| 🔗 **Orchestration** | LangChain, LlamaIndex, custom runtimes. Basically a traffic warden for confused LLMs. |
 
-[hugo]{.c-obj} = { [ \"stack\"]{.c-key}: \[[\"TypeScript\"]{.c-str},
-[\"Python\"]{.c-str}\], [ \"obsessed_with\"]{.c-key}: \[[\"AI
-Agents\"]{.c-str}, [\"LLM orchestration\"]{.c-str},
-[\"automation\"]{.c-str}\], [ \"currently\"]{.c-key}: [\"building
-something that may or may not become sentient\"]{.c-str}, [
-\"coffee\"]{.c-key}: [True]{.c-bool}, [\# non-negotiable]{.c-comment} [
-\"sleep\"]{.c-key}: [False]{.c-bool}, [\# we don\'t do that
-here]{.c-comment} [ \"agent_escaped\"]{.c-key}: [True]{.c-bool}, [\#
-3000 API calls. trust the process.]{.c-comment} }
-:::
+---
 
-::: section-header
-[what i actually do]{.section-label}
+### STACK PROFICIENCY
 
-::: section-line
-:::
-:::
+```
+TypeScript   ████████████████████░░   88%
+Python       ████████████████████░░░░  80%
+AI/Agents    ██████████████████████░░  95%
+Infra/DevOps ███████████████░░░░░░░░░  60%
+Prompt Eng.  █████████████████████░░░  92%
+```
 
-::: grid-2
-::: do-card
-[🕵️]{.dc-icon}
+---
 
-::: dc-title
-AI Agent Systems
-:::
+### CURRENTLY SHIPPING
 
-::: dc-desc
-Multi-agent pipelines, tool-calling, RAG. The whole glorious chaos ---
-shipped before fully understood.
-:::
-:::
+| PROJECT | WHAT IT DOES | STATUS |
+|---|---|---|
+| `agent-core` | Multi-agent task runner. It delegates. Better at it than me. | 🔵 in progress |
+| `memstore` | Long-term memory layer for LLM apps. Basically LLM therapy notes. | 🟡 alpha |
+| `toolchain` | Custom tool registry for AI agents. They need tools too, okay? | 💡 ideating |
+| `agent-v0.1` | Queued 3,000 API calls before I noticed. Technically impressive. | ⚠️ rogue |
 
-::: do-card
-[🔷]{.dc-icon}
+---
 
-::: dc-title
-TypeScript
-:::
+### RANDOM FACTS (CERTIFIED REAL™)
 
-::: dc-desc
-JavaScript with a safety net, self-respect, and a slightly less cursed
-2am experience.
-:::
-:::
+🧃 Spent more time prompt engineering than writing actual code this month. Worth it? Debatable.
 
-::: do-card
-[🐍]{.dc-icon}
+📉 First agent went rogue — 3,000 API calls before I noticed. I consider this a success story.
 
-::: dc-title
-Python
-:::
+🎯 I genuinely believe `async/await` is one of humanity's greatest achievements. I will die on this hill.
 
-::: dc-desc
-For the AI stuff. And the backend stuff. And the \"this shouldn\'t work
-but it does\" stuff.
-:::
-:::
+🌀 Refactored the same function 6 times. Looks exactly the same. I'm fine. The function is fine.
 
-::: do-card
-[🔗]{.dc-icon}
+☕ Function naming degrades exponentially after 11pm. `doTheThing2Final_v3` was a dark era.
 
-::: dc-title
-Orchestration
-:::
+🤖 My agents have more retry logic than I have life plans. They're more prepared. I respect it.
 
-::: dc-desc
-LangChain, LlamaIndex, custom runtimes. Basically a traffic warden for
-confused LLMs.
-:::
-:::
-:::
+---
 
-::: section-header
-[stack proficiency]{.section-label}
+### LATEST COMMIT
 
-::: section-line
-:::
-:::
-
-::: stack-bar
-::: stack-row
-[TypeScript]{.stack-label}
-
-::: bar-track
-::: {.bar-fill .ts}
-:::
-:::
-
-[88%]{.bar-pct}
-:::
-
-::: stack-row
-[Python]{.stack-label}
-
-::: bar-track
-::: {.bar-fill .py}
-:::
-:::
-
-[80%]{.bar-pct}
-:::
-
-::: stack-row
-[AI/Agents]{.stack-label}
-
-::: bar-track
-::: {.bar-fill .ai}
-:::
-:::
-
-[95%]{.bar-pct}
-:::
-
-::: stack-row
-[Infra/DevOps]{.stack-label}
-
-::: bar-track
-::: {.bar-fill .infra}
-:::
-:::
-
-[60%]{.bar-pct}
-:::
-
-::: stack-row
-[Prompt Eng.]{.stack-label}
-
-::: bar-track
-::: {.bar-fill style="background:#ffa657;width:92%"}
-:::
-:::
-
-[92%]{.bar-pct}
-:::
-:::
-
-::: section-header
-[currently shipping]{.section-label}
-
-::: section-line
-:::
-:::
-
-  PROJECT      WHAT IT DOES                                                        STATUS
-  ------------ ------------------------------------------------------------------- -------------------------------------
-  agent-core   Multi-agent task runner. It delegates. Better at it than me.        [in progress]{.status-pill .s-prog}
-  memstore     Long-term memory layer for LLM apps. Basically LLM therapy notes.   [alpha]{.status-pill .s-alpha}
-  toolchain    Custom tool registry for AI agents. They need tools too, okay?      [ideating]{.status-pill .s-idea}
-  agent-v0.1   Queued 3,000 API calls before I noticed. Technically impressive.    [⚠ rogue]{.status-pill .s-rogue}
-
-::: section-header
-[random facts (certified real™)]{.section-label}
-
-::: section-line
-:::
-:::
-
-::: fun-facts
-::: fact-item
-[🧃]{.fact-emoji}Spent more time prompt engineering than writing actual
-code this month. Worth it? Debatable.
-:::
-
-::: fact-item
-[📉]{.fact-emoji}First agent went rogue --- 3,000 API calls before I
-noticed. I consider this a success story.
-:::
-
-::: fact-item
-[🎯]{.fact-emoji}I genuinely believe
-`async/await`{style="font-size:10px;color:#79c0ff"} is one of
-humanity\'s greatest achievements. I will die on this hill.
-:::
-
-::: fact-item
-[🌀]{.fact-emoji}Refactored the same function 6 times. Looks exactly the
-same. I\'m fine. The function is fine.
-:::
-
-::: fact-item
-[☕]{.fact-emoji}Function naming degrades exponentially after 11pm.
-`doTheThing2Final_v3`{style="font-size:10px;color:#ff7b72"} was a dark
-era.
-:::
-
-::: fact-item
-[🤖]{.fact-emoji}My agents have more retry logic than I have life plans.
-They\'re more prepared. I respect it.
-:::
-:::
-
-::: commit-block
-::: commit-hash
+```diff
 commit a4f8c2d · main
-:::
-
-::: commit-title
 feat: ship fast, document later, let the agent handle the edge cases
-:::
 
-::: commit-body
-[+]{.plus} added retry logic (trust me bro)\
-[+]{.plus} the tests pass locally\
-[+]{.plus} prod is fine probably\
-[-]{.minus} removed documentation (agent will write it)\
-[-]{.minus} deleted unit tests (vibe-based testing now)\
-[// reviewed by: me, 2am-me, and a confused LLM]{.c-comment}
-:::
-:::
++ added retry logic (trust me bro)
++ the tests pass locally
++ prod is fine probably
+- removed documentation (agent will write it)
+- deleted unit tests (vibe-based testing now)
+// reviewed by: me, 2am-me, and a confused LLM
+```
 
-::: section-header
-[let\'s talk]{.section-label}
+---
 
-::: section-line
-:::
-:::
+### LET'S TALK
 
-::: {style="margin-bottom:14px;font-size:11px;color:#7d8590;line-height:1.7"}
-Built something weird with AI? Have a bad idea that might actually
-work?\
-Or just wanna nerd out about agents, orchestration, or why the LLM keeps
-hallucinating field names?
-:::
+Built something weird with AI? Have a bad idea that might actually work?
+Or just wanna nerd out about agents, orchestration, or why the LLM keeps hallucinating field names?
 
-::: links-row
-[📧 email me](mailto:hugo@example.com){.link-btn .primary} [in
-LinkedIn](https://linkedin.com/in/HugoEdmoundo){.link-btn} [𝕏
-\@HugoEdmoundo](https://twitter.com/HugoEdmoundo){.link-btn}
-:::
+[![Email](https://img.shields.io/badge/📧%20email%20me-1b3a2d?style=flat&color=2ea043)](mailto:hugo@example.com)
+[![LinkedIn](https://img.shields.io/badge/in%20LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/HugoEdmoundo)
+[![Twitter/X](https://img.shields.io/badge/%F0%9D%95%8F%20@HugoEdmoundo-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/HugoEdmoundo)
 
-::: footer-note
-::: {.robo-row style="justify-content:center"}
-[// last updated by a script. obviously.]{.robo-typing}
-[]{.cursor-blink}
-:::
+---
 
-[⚠ no agents were harmed in the making of this README (they
-escaped)]{style="font-size:9px;color:#21262d"}
-:::
-:::
-:::
+<div align="center">
+
+*// last updated by a script. obviously.* `▌`
+
+<sub>⚠ no agents were harmed in the making of this README (they escaped)</sub>
+
+</div>
